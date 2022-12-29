@@ -7,7 +7,7 @@ build:
     - openmpi-bin
     - libopenmpi-dev
   tools:
-    python: 3.7
+    python: "3.7"
 
 # Build documentation with MkDocs
 mkdocs:
