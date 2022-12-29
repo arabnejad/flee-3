@@ -12,9 +12,10 @@ build:
 mkdocs:
  configuration: mkdocs.yml
  fail_on_warning: false
- 
+
 # Optionally set the version of Python and requirements required to build your docs
 python:
+  os: ubuntu-20.04
   version: 3.7
   install:
     - requirements: docs/mkdocs-requirements.txt
