@@ -11,7 +11,7 @@ mkdocs-minify-plugin
 mkdocs-awesome-pages-plugin
 mkdocs-print-site-plugin
 mkdocs-autolinks-plugin
-mkdocstrings
-mkdocstrings-python
+mkdocstrings==0.18.1
+mkdocstrings-python-legacy
 mkdocstrings.handlers.python
 pytkdocs==0.12
